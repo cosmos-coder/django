@@ -1,5 +1,5 @@
 =================
-FAQ: Using Django
+FAQs: Using Django
 =================
 
 Why do I get an error about importing DJANGO_SETTINGS_MODULE?
